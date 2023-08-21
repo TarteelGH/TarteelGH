@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarteel Ghassan Natsheh</h1>
-<h3 align="center">✨A Computer Science -Data science- student from Palestine✨</h3>
+<h3 align="center">✨A Computer Science - Data science - student " Second year " from Palestine✨</h3>
 
 
 <h3 align="left">Connect with me:</h3>
